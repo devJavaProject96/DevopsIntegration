@@ -10,5 +10,5 @@ public class DevopsIntegrationApplication {
 		SpringApplication.run(DevopsIntegrationApplication.class, args);
 	}
 
-	
+
 }
